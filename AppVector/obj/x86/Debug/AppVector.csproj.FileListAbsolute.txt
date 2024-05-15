@@ -1,0 +1,31 @@
+C:\Users\ADMIN\AppData\Local\Temporary Projects\AppVector\bin\Debug\AppVector.exe
+C:\Users\ADMIN\AppData\Local\Temporary Projects\AppVector\bin\Debug\AppVector.pdb
+C:\Users\ADMIN\AppData\Local\Temporary Projects\AppVector\obj\x86\Debug\AppVector.Form1.resources
+C:\Users\ADMIN\AppData\Local\Temporary Projects\AppVector\obj\x86\Debug\AppVector.Properties.Resources.resources
+C:\Users\ADMIN\AppData\Local\Temporary Projects\AppVector\obj\x86\Debug\AppVector.csproj.GenerateResource.Cache
+C:\Users\ADMIN\AppData\Local\Temporary Projects\AppVector\obj\x86\Debug\AppVector.exe
+C:\Users\ADMIN\AppData\Local\Temporary Projects\AppVector\obj\x86\Debug\AppVector.pdb
+D:\funciones c#\AppVector\AppVector\obj\x86\Debug\AppVector.exe
+D:\funciones c#\AppVector\AppVector\obj\x86\Debug\AppVector.pdb
+D:\funciones c#\AppVector\AppVector\bin\Debug\AppVector.exe
+D:\funciones c#\AppVector\AppVector\bin\Debug\AppVector.pdb
+D:\funciones c#\AppVector\AppVector\obj\x86\Debug\AppVector.Frmvectores.resources
+D:\funciones c#\AppVector\AppVector\obj\x86\Debug\AppVector.Properties.Resources.resources
+D:\funciones c#\AppVector\AppVector\obj\x86\Debug\AppVector.csproj.GenerateResource.Cache
+D:\funciones c#\AppVector\AppVector\obj\x86\Debug\AppVector.csprojResolveAssemblyReference.cache
+F:\AppVector\AppVector\obj\x86\Debug\AppVector.exe
+F:\AppVector\AppVector\obj\x86\Debug\AppVector.pdb
+F:\AppVector\AppVector\bin\Debug\AppVector.exe
+F:\AppVector\AppVector\bin\Debug\AppVector.pdb
+F:\AppVector\AppVector\obj\x86\Debug\AppVector.csprojResolveAssemblyReference.cache
+F:\AppVector\AppVector\obj\x86\Debug\AppVector.Frmvectores.resources
+F:\AppVector\AppVector\obj\x86\Debug\AppVector.Properties.Resources.resources
+F:\AppVector\AppVector\obj\x86\Debug\AppVector.csproj.GenerateResource.Cache
+D:\3uToolsV3\AppVector\AppVector\obj\x86\Debug\AppVector.exe
+D:\3uToolsV3\AppVector\AppVector\obj\x86\Debug\AppVector.pdb
+D:\3uToolsV3\AppVector\AppVector\bin\Debug\AppVector.exe
+D:\3uToolsV3\AppVector\AppVector\bin\Debug\AppVector.pdb
+D:\3uToolsV3\AppVector\AppVector\obj\x86\Debug\AppVector.csprojResolveAssemblyReference.cache
+D:\3uToolsV3\AppVector\AppVector\obj\x86\Debug\AppVector.Frmvectores.resources
+D:\3uToolsV3\AppVector\AppVector\obj\x86\Debug\AppVector.Properties.Resources.resources
+D:\3uToolsV3\AppVector\AppVector\obj\x86\Debug\AppVector.csproj.GenerateResource.Cache
